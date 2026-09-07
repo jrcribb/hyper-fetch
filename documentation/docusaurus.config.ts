@@ -325,6 +325,14 @@ const config: Config = {
               label: "Blog",
               to: "/blog",
             },
+            {
+              label: "Hype Stack",
+              href: "https://hype-stack.dev",
+            },
+            {
+              label: "BetterTyped",
+              href: "https://bettertyped.com",
+            },
           ],
         },
       ],
